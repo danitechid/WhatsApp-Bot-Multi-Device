@@ -1,0 +1,41 @@
+{
+  "name": "WhatsApp-Bot-Multi-Device",
+  "version": "1.0.0",
+  "description": "WhatsApp Bot Multi Device",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danitechid/WhatsApp-Bot-Multi-Device"
+  },
+  "keywords": [
+    "Bot",
+    "WhatsApp",
+    "Multi",
+    "Device"
+  ],
+  "author": "Dani Tech. - FullStack Engineer",
+  "website": "https://www.danitechid.com",
+  "email": "contact@danitechid.com",
+  "whatsapp": "6289512545999",
+  "github": "danitechid",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@whiskeysockets/baileys": "^6.3.1",
+    "axios": "^1.3.4",
+    "chalk": "^4.1.2",
+    "lodash": "^4.17.21",
+    "lowdb": "^2.1.0",
+    "moment-timezone": "^0.5.34",
+    "mongoose": "^6.2.1",
+    "node-cron": "^3.0.0",
+    "openai": "^3.2.1",
+    "pino": "^7.0.5",
+    "qrcode-terminal": "^0.12.0",
+    "yargs": "^17.2.1",
+    "jimp": "^0.16.1"
+  }
+}

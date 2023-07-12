@@ -1,0 +1,11 @@
+{
+  "sessionName": "session",
+  "publicMode": true,
+  "botName": "Dani Bot",
+  "ownerName": "Dani Tech.",
+  "ownerNumber": ["6289512545999"],
+  "ownerOrg": "FullStack Engineer",
+  "prefix": ".",
+  "apiURL": "https://daniapi.my.id",
+  "apiKey": "danikey"
+}
